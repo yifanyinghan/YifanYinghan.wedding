@@ -134,7 +134,7 @@ var callback = function (e){
             attributes.align = "middle";
             
             
-var hasMobileVersion=false;
+var hasMobileVersion=true;
 var hasBasicHtmlVersion=true;
 
 var callback = function (e){ 
